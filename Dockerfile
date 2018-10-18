@@ -1,8 +1,8 @@
-############################################################################
-# This dockerfile will setup a centos container with OpenJDK installed on it
-############################################################################
+##############################################################################
+# This dockerfile will setup a centos container with OpenJDK installed on it #
+##############################################################################
 
-FROM centos
+FROM centos:7.5.1804
 
 MAINTAINER Loic Mathieu <loicmathieu@free.fr>
 
